@@ -1,0 +1,34 @@
+070528:
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam070528.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam070528_.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam070528sol.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam070528sol_.pdf
+
+110603:
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam110603.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam110603sol.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam110603sol_.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam110603sol__.pdf
+
+120528:
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam120528.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam120528sol.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam120528sol_.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam120528sol__.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam120528sol___.pdf
+
+130603:
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603_1.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_1.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_2.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_3.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_4.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_5.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam130603sol_6.pdf
+
+140602:
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam140602sol.pdf
+ http://www.maths.lth.se/na/courses/FMN011/media/material/exam140602sol_1.pdf
+
